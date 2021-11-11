@@ -1,0 +1,19 @@
+{
+  "name": "nest-graphql-toolkit",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNightmareX/nest-graphql-toolkit.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TheNightmareX/nest-graphql-toolkit/issues"
+  },
+  "homepage": "https://github.com/TheNightmareX/nest-graphql-toolkit#readme"
+}
